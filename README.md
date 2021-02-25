@@ -1,3 +1,2 @@
 ## Cool Info
-
-/asdasds/
+ Dragon Island 
