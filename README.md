@@ -1,7 +1,7 @@
 ## Cool Info
  `
-//<!DOCTYPE html>
-//<html>
+/<!DOCTYPE html>/
+/<html>
 
 //<body>
 
