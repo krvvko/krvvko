@@ -1,14 +1,10 @@
 ## Cool Info
 
- `!DOCTYPE html
- 
+
+`!DOCTYPE html
 html
-
 body
-
-
 /body
+/html 
 
-/html
-
- `
+ 
