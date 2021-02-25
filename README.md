@@ -1,5 +1,5 @@
 # Cool Info
-~~I'm The Developer with good skillz and huge experience~~
+~~I'm The Developer with good skillz and huge experience~~ <br>
 ~~Can someone help me to hack my friend's inst?~~
 Sorry, wrote that by accident and dunno how to deete it.
 
