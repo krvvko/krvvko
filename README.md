@@ -1,6 +1,7 @@
 ## Cool Info
 
- `!DOCTYPE html `
+ `!DOCTYPE html
+ 
 html
 
 body
