@@ -6,7 +6,7 @@ Sorry, wrote that by accident and dunno how to deete it.
 I'm basically a developer, who wants to study how to create, and then create cool stuf for cool people after that. <br>
 
 
-HTMl txt below is absolutely true
+HTMl text below is absolutely true
 ```
 <!DOCTYPE html>
 <html>
