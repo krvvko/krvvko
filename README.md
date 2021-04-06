@@ -18,5 +18,5 @@ if ($noob_opens_my_page = true) {
 echo "You are Welcome here =)"
 
 }
-?>
+
 ```
