@@ -5,7 +5,7 @@ Sorry, wrote that by accident and dunno how to deete it.
 
 I'm basically a developer, who wants to study how to create, and then create cool stuf for cool people after that. <br>
 
-
+```
 <?php
 
 if ($noob_opens_my_page = true) {
@@ -19,3 +19,4 @@ echo "You are Welcome here =)"
 
 }
 ?>
+```
