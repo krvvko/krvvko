@@ -6,15 +6,16 @@ Sorry, wrote that by accident and dunno how to deete it.
 I'm basically a developer, who wants to study how to create, and then create cool stuf for cool people after that. <br>
 
 
-HTMl text below is absolutely true
-```
-<!DOCTYPE html>
-<html>
-<body>
+<?php
 
-<h1>Cats are awesome.</h1>
+if ($noob_opens_my_page = true) {
 
-</body>
-</html>
-```
- 
+  hack;
+  echo "noob has been hacked";
+
+} else {
+
+echo "You are Welcome here =)"
+
+}
+?>
