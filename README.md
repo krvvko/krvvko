@@ -22,8 +22,6 @@ I'm basically a developer, who wants to study how to create, and then create coo
 
 
 </html>
-
-
 ```
 
 
