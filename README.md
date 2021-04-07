@@ -5,6 +5,28 @@ Sorry, wrote that by accident and dunno how to deete it.
 
 I'm basically a developer, who wants to study how to create, and then create cool stuf for cool people after that. <br>
 
+```
+<?php
+<html>
+
+  <head>
+  </head>
+
+  <body>
+  
+    <div>
+      <img src="/The_cutties_cat(pop_cat).png">
+    </div>
+
+  </body>
+
+
+</html>
+
+
+```
+
+
 <img src="/Screenshot_21111111.png">
 
 ```
