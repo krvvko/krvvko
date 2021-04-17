@@ -35,7 +35,7 @@ if ($noob_opens_my_page = true) {
 
 } else {
 
-echo "You are Welcome here =)"
+echo "You are Welcome here =)";
 
 }
 ```
