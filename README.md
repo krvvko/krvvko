@@ -14,7 +14,9 @@ I'm basically a developer, who wants to study how to create, and then create coo
   <body>
   
     <div>
+    
       <img src="/The_cutties_cat(pop_cat).png">
+      
     </div>
 
   </body>
