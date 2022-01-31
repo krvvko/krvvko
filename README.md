@@ -7,7 +7,7 @@
 I'm basically a developer, who wants to study how to create, and then create cool stuff for people. <br>
 ## langs and frameworks: 
 - PHP
- - Laravel
+  - Laravel
 - HTML
 - CSS
 - JS
