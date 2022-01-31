@@ -1,5 +1,5 @@
 # Some Info
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krvvko&count_private=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krvvko&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 I'm basically a developer, who wants to study how to create, and then create cool stuff for people. <br>
 
