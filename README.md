@@ -1,6 +1,6 @@
 # krvvko
 ## Some Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krvvko&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/krvvko/github-readme-stats) <br>
+[![Krvvko's GitHub stats](https://github-readme-stats.vercel.app/api?username=krvvko&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/krvvko/github-readme-stats) <br>
 
 ## About Me:
 
@@ -15,7 +15,7 @@ I'm basically a developer, who wants to study how to create, and then create coo
 - USAnian 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krvvko&layout=compact&theme=tokyonight)](https://github.com/krvvko/github-readme-stats) <br>
+[![Most used langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=krvvko&layout=compact&theme=tokyonight)](https://github.com/krvvko/github-readme-stats) <br>
 
 ## A little bit of html:
 ``` html
@@ -36,4 +36,3 @@ I'm basically a developer, who wants to study how to create, and then create coo
 </html>
 
 ```
-<img src="/Screenshot_21111111.png">
