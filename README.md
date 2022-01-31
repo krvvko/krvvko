@@ -1,5 +1,5 @@
 # Some Info
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krvvko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krvvko)](https://github.com/anuraghazra/github-readme-stats) <br>
 ~~I'm The Developer with good skillz and huge experience~~ <br>
 ~~Can someone help me to hack my friend's inst?~~ <br>
 Sorry, wrote that by accident and dunno how to deete it.
