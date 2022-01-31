@@ -11,6 +11,7 @@ I'm basically a developer, who wants to study how to create, and then create coo
 - JS
 - Russian
 - USAnian 
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krvvko&layout=compact&theme=tokyonight)](https://github.com/krvvko/github-readme-stats) <br>
 ## frameworks:
 - Laravel
