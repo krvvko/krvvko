@@ -38,3 +38,4 @@ I'm basically a developer, who wants to study how to create, and then create coo
 ## My best projects:
 - [My Website](https://github.com/krvvko/krvvko.com/tree/main#krvvkocom---website)
 - [super-hack-script](https://github.com/krvvko/super-hack-script)
+- [Took part in Laravel development](https://github.com/laravel/laravel/pull/5775)
