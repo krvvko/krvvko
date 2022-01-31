@@ -12,7 +12,7 @@ I'm basically a developer, who wants to study how to create, and then create coo
 - CSS
 - JS
 - Russian
-- USAnian 
+- USA'nian 
 
 
 [![Most used langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=krvvko&layout=compact&theme=tokyonight)](https://github.com/krvvko/github-readme-stats) <br>
