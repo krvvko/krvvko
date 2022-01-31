@@ -8,22 +8,21 @@ I'm basically a developer, who wants to study how to create, and then create coo
 
 ## A little bit of html:
 ``` html
-<html>
-
-  <head>
-  </head>
-
-  <body>
-  
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Just a cat</title>
+</head>
+<body>
     <div>
-    
+  
       <img src="/the_cat.png">
       <!-- Just to output an image  -->
       
     </div>
-
-  </body>
-
+</body>
 </html>
+
 ```
 <img src="/Screenshot_21111111.png">
