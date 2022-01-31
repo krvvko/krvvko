@@ -36,5 +36,5 @@ I'm basically a developer, who wants to study how to create, and then create coo
 </html>
 ```
 ## My best projects:
-- [My Website](https://github.com/krvvko/krvvko.com/tree/main)
-- [super-hack-script](https://www.google.com)
+- [My Website](https://github.com/krvvko/krvvko.com/tree/main#krvvkocom---website)
+- [super-hack-script](https://github.com/krvvko/super-hack-script)
