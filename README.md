@@ -34,5 +34,7 @@ I'm basically a developer, who wants to study how to create, and then create coo
     </div>
 </body>
 </html>
-
 ```
+## My best projects:
+- [My Website](https://github.com/krvvko/krvvko.com/tree/main)
+- [super-hack-script](https://www.google.com)
