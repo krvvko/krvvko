@@ -1,4 +1,4 @@
-# krvvko
+# [krvvko](https://github.com/krvvko)
 ## Some Stats:
 [![Krvvko's GitHub stats](https://github-readme-stats.vercel.app/api?username=krvvko&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/krvvko/github-readme-stats) <br>
 
