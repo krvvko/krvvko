@@ -42,6 +42,6 @@ I'm basically a developer, who wants to study how to create, and then create coo
 - [My Website](https://github.com/krvvko/krvvko.com/tree/main#krvvkocom---website)
 - [super-hack-script](https://github.com/krvvko/super-hack-script)
 - Took part in Laravel development
-  - [#1 bug fix](https://github.com/laravel/laravel/pull/5775)
-  - [#2 bug fix](https://github.com/laravel/laravel/pull/5785)
-  - [#3 bug fix](https://github.com/laravel/laravel/pull/5786)
+  - [] [#1 bug fix](https://github.com/laravel/laravel/pull/5775)
+  - [] [#2 bug fix](https://github.com/laravel/laravel/pull/5785)
+  - [x] [#3 bug fix](https://github.com/laravel/laravel/pull/5786)
