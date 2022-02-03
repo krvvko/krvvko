@@ -10,7 +10,7 @@ I'm basically a developer, who wants to study how to create, and then create coo
   - Laravel
 - HTML
 - CSS
-- JS
+- JavaScript
 - Java
 - C#
   - ASP.net
