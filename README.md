@@ -20,7 +20,7 @@ I'm basically a developer, who wants to study how to create, and then create coo
 
 [![Most used langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=krvvko&layout=compact&theme=tokyonight)](https://github.com/krvvko/github-readme-stats) <br>
 
-## A little bit of html:
+## A little bit of D# (framework: Python):
 ``` html
 <!doctype html>
 <html lang="en">
