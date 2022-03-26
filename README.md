@@ -8,6 +8,8 @@ I'm basically a developer, who wants to study how to create, and then create coo
 ## langs and frameworks: 
 - PHP
   - Laravel
+- Python
+  - Discord Lib
 - HTML
 - CSS
 - JavaScript
