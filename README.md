@@ -6,11 +6,11 @@
 
 I'm basically a developer, who wants to study how to create, and then create cool stuff for people. <br>
 ## langs and frameworks: 
-- PHP
-  - Laravel
-- Python
-  - Discord Lib
-- HTML
+- [PHP](https://github.com/php)
+  - [Laravel](https://github.com/laravel)
+- [Python](https://github.com/python)
+  - [discord.py](https://discordpy.readthedocs.io/en/stable/#)
+- [HTML](https://github.com/topics/html)
 - CSS
 - JavaScript
 - Java
@@ -23,7 +23,7 @@ I'm basically a developer, who wants to study how to create, and then create coo
 [![Most used langs:](https://github-readme-stats.vercel.app/api/top-langs/?username=krvvko&layout=compact&theme=tokyonight)](https://github.com/krvvko/github-readme-stats) <br>
 
 ## My best projects:
-- [My Website](https://github.com/krvvko/krvvko.com/tree/main#krvvkocom---website)
+- [My Website](https://github.com/krvvko/krvvko.com/tree/main#krvvkocom---website) - [krvvko.me](https://krvvko.me)
 - [super-hack-script](https://github.com/krvvko/super-hack-script)
 - [NNKL Library](https://github.com/krvvko/NoNumbersKeyboardLibrary)
 - [IMG uploader](https://uploads.krvvko.me) - private repo
